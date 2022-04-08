@@ -3,7 +3,8 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en licenc
 
 # Déscription du Projet
 
-Son principe  est de détecter la presen potentizl de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les persoones présentes dans la pièce
+Son principe  est de détecter la presence potentielle de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les persoones présentes dans la pièce.
+Il y aura également un écran affichant si le gazon détecté est explosif ou toxique pour pouvoir mettre les bonnes mesures en places.
 
 
 # Matériel Utilisé
