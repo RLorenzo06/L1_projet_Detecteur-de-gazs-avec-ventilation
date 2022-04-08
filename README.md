@@ -3,14 +3,14 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en licenc
 
 # Déscription du Projet
 
-Son principe  est de détecter la presence potentielle de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les persoones présentes dans la pièce.
-Il y aura également un écran affichant si le gazon détecté est explosif ou toxique pour pouvoir mettre les bonnes mesures en places.
+Son principe  est de détecter la presence potentielle de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les personnes présentes dans la pièce.
+Il y aura également un écran affichant si le gaz détecté est explosif ou toxique pour pouvoir mettre les bonnes mesures en places.
 
 
 # Matériel Utilisé
 
 Notre projet est basé sur une carte arduino UCA sur laquelle tous nos composants seront branchés.
-Nous utilisons également 2 capteurs de gazs un pour le CO et un 2éme multigazss.
+Nous utilisons également 2 capteurs de gazs un pour le CO et un 2éme multigazs.
 Pour la ventilation nous utilisons un ventilateurs d'ordinateur.
 Et nous utilisons une led et un buzzer comme alerte.
 
