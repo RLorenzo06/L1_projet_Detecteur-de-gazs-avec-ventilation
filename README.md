@@ -26,14 +26,20 @@ https://www.gotronic.fr/art-module-buzzer-actif-gt1143-26143.
 # Brouillon
 Voici un brouillon non a echelle de l'idee de réalisation.
 
-chambre pour le test:![projet chambregaz](https://user-images.githubusercontent.com/103261314/162450104-b3c289f9-f49f-4189-b48a-4457393c0968.png)
+chambre pour le test:
+
+![projet chambregaz](https://user-images.githubusercontent.com/103261314/162450104-b3c289f9-f49f-4189-b48a-4457393c0968.png)
+
+
 on peut voir l'emplacement pour le ventilateur et une plaque transparent pour voir ce qui ce passe a l'intérieur de la chambre.
 
 
 
 
 
-détecteur:![projet detecteur](https://user-images.githubusercontent.com/103261314/162450208-f0527aa4-74b1-4172-ae3e-b97e2460bba7.png)
+détecteur:
+
+![projet detecteur](https://user-images.githubusercontent.com/103261314/162450208-f0527aa4-74b1-4172-ae3e-b97e2460bba7.png)
 
 
 on voit la forme global du détecteur.
