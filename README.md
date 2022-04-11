@@ -1,9 +1,9 @@
 # L1_projet_Detecteur-de-gazs-avec-ventilation
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en licence 1 à l'Université Nice Sophia Antipolis.
 
-# Déscription du Projet
+# Description du Projet
 
-Son principe  est de détecter la presence potentielle de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les personnes présentes dans la pièce.
+Son principe est de détecter la presence potentielle de gazs dangereux comme des gazs explosifs tel que le butane ou le propane ,ou encore des gazs toxiques tel que le monoxyde de carbone. Par la suite le détecetur déclenche une aération pour renouveller l'air et mettre à l'abri les personnes présentes dans la pièce.
 Il y aura également un écran affichant si le gaz détecté est explosif ou toxique pour pouvoir mettre les bonnes mesures en places.
 
 
@@ -37,3 +37,20 @@ détecteur:![projet detecteur](https://user-images.githubusercontent.com/1032613
 
 
 on voit la forme global du détecteur.
+
+# Schema finaux
+
+Voici les modèles finaux que l'on va utiliser pour construire ce projet, il y aura quelques modifications une fois les pièces reçues et conçues notamment pour l'emplacement de l'écran et l'ajout de grille sur le capot du détecteur.
+
+
+Chambre pour test:
+
+
+
+
+Modèle capteurs pour mesures :
+
+
+
+
+Detecteur:
