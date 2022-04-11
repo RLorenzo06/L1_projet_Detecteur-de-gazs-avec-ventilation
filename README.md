@@ -45,12 +45,19 @@ Voici les modèles finaux que l'on va utiliser pour construire ce projet, il y a
 
 Chambre pour test:
 
+<img width="943" alt="Capture d’écran 2022-04-11 à 10 03 59" src="https://user-images.githubusercontent.com/103261314/162701892-5b883950-5c99-49a5-abd9-e52100138eed.png">
 
 
 
 Modèle capteurs pour mesures :
 
+<img width="599" alt="Capture d’écran 2022-04-11 à 10 21 22" src="https://user-images.githubusercontent.com/103261314/162701919-dda3ba97-6d68-4a1c-b915-73641ba798b9.png">
 
 
 
 Detecteur:
+
+<img width="260" alt="Capture d’écran 2022-04-11 à 10 42 56" src="https://user-images.githubusercontent.com/103261314/162701963-3de47c1c-5db7-414c-bf1e-4060f14cd41b.png">
+
+
+
